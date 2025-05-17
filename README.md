@@ -16,3 +16,8 @@ Policy Development: The insights gained from the model can inform the developmen
 Strategic Decision Making: Predictive analytics can aid in broader strategic decisions, such as entering new markets or adjusting policy terms based on risk predictions.
 Customer Engagement: Insights from the model can be used in customer engagement initiatives, such as personalized marketing and tailored advice for policyholders
 
+# Project Summary
+**This project aims to predict medical insurance premiums based on various factors, such as age, BMI, gender, and lifestyle indicators. Through Exploratory Data Analysis (EDA), we visualized relationships between features to identify influential factors. After pre-processing the data and splitting it into training and test sets, we tested several machine learning models, including Decision Trees, Random Forest, and Logistic Regression, to find the best predictive model.**
+
+**Results:
+The Random Forest yielded an accuracy score of 92% on the test set, demonstrating its effectiveness in predicting insurance premiums. This model could be further improved by adding more feature engineering or using advanced algorithms for enhanced precision.**
